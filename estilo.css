@@ -54,7 +54,9 @@ h2 {
 }
 
 article {
-    padding: 1em 0;
+   padding-top: 1px;
+   padding-bottom:1 px ;
+   border-top: 1px solid;
 }
 
 section {
